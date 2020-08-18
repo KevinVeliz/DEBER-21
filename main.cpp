@@ -3,6 +3,7 @@
 using namespace std;
 
 int menu(int );
+//funciones del ejercicio2
 int tamanioArray(int x);
 void llenarOrdenarArray(float x[], int y);
 void ejer2();
